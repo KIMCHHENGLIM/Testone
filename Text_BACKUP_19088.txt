@@ -1,8 +1,0 @@
-Hello
-Lala
-<<<<<<< HEAD
-dasd
-J
-=======
-dasd
->>>>>>> 36f622795673be9184b16bd90730b73cb5f94624
