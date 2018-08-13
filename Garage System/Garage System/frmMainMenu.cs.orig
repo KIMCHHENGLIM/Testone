@@ -77,9 +77,12 @@ namespace Garage_System
             Product pro = new Product();
             pro.Location = new Point(250, 68);
             Controls.Add(pro);
-            Console.WriteLine("JJ")
+<<<<<<< HEAD
             Console.WriteLine("Jwork");
             Console.WriteLine("New1");
+=======
+            Console.WriteLine("Kwork");
+>>>>>>> 30b2491dd315fd1168f09084c02c8fa1ea2be111
         }
     }
 }
