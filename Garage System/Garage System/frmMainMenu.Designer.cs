@@ -35,6 +35,7 @@
             this.circularButton3 = new Garage_System.CircularButton();
             this.btnHide = new Garage_System.CircularButton();
             this.btnExit = new Garage_System.CircularButton();
+            this.textBox1 = new System.Windows.Forms.TextBox();
             this.panel1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -107,12 +108,20 @@
             this.btnExit.UseVisualStyleBackColor = false;
             this.btnExit.Click += new System.EventHandler(this.btnExit_Click);
             // 
+            // textBox1
+            // 
+            this.textBox1.Location = new System.Drawing.Point(488, 246);
+            this.textBox1.Name = "textBox1";
+            this.textBox1.Size = new System.Drawing.Size(890, 27);
+            this.textBox1.TabIndex = 4;
+            // 
             // MainForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 19F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
             this.ClientSize = new System.Drawing.Size(1716, 929);
+            this.Controls.Add(this.textBox1);
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.circularButton3);
             this.Controls.Add(this.btnHide);
@@ -124,6 +133,7 @@
             this.Text = "Form1";
             this.panel1.ResumeLayout(false);
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
@@ -135,6 +145,7 @@
         private CircularButton circularButton3;
         private System.Windows.Forms.Panel panel1;
         private System.Windows.Forms.Button btnProduct;
+        private System.Windows.Forms.TextBox textBox1;
     }
 }
 

@@ -33,3 +33,15 @@ D:\Year 3\ProjectWithAhLin\garage-project\Garage System\Garage System\obj\Debug\
 D:\Year 3\ProjectWithAhLin\garage-project\Garage System\Garage System\obj\Debug\Garage System.csproj.GenerateResource.Cache
 D:\Year 3\ProjectWithAhLin\garage-project\Garage System\Garage System\obj\Debug\Garage System.exe
 D:\Year 3\ProjectWithAhLin\garage-project\Garage System\Garage System\obj\Debug\Garage System.pdb
+C:\Users\GAMER\Desktop\New folder\User1\Testone\Garage System\Garage System\bin\Debug\Garage System.exe.config
+C:\Users\GAMER\Desktop\New folder\User1\Testone\Garage System\Garage System\obj\Debug\Garage System.exe
+C:\Users\GAMER\Desktop\New folder\User1\Testone\Garage System\Garage System\obj\Debug\Garage System.pdb
+C:\Users\GAMER\Desktop\New folder\User1\Testone\Garage System\Garage System\bin\Debug\Garage System.exe
+C:\Users\GAMER\Desktop\New folder\User1\Testone\Garage System\Garage System\bin\Debug\Garage System.pdb
+C:\Users\GAMER\Desktop\New folder\User1\Testone\Garage System\Garage System\bin\Debug\SplashScreen.dll
+C:\Users\GAMER\Desktop\New folder\User1\Testone\Garage System\Garage System\obj\Debug\Garage System.csprojResolveAssemblyReference.cache
+C:\Users\GAMER\Desktop\New folder\User1\Testone\Garage System\Garage System\obj\Debug\Garage_System.Custom_MassageBox.resources
+C:\Users\GAMER\Desktop\New folder\User1\Testone\Garage System\Garage System\obj\Debug\Garage_System.MainForm.resources
+C:\Users\GAMER\Desktop\New folder\User1\Testone\Garage System\Garage System\obj\Debug\Garage_System.Product.resources
+C:\Users\GAMER\Desktop\New folder\User1\Testone\Garage System\Garage System\obj\Debug\Garage_System.Properties.Resources.resources
+C:\Users\GAMER\Desktop\New folder\User1\Testone\Garage System\Garage System\obj\Debug\Garage System.csproj.GenerateResource.Cache
